@@ -1,0 +1,49 @@
+
+body{
+
+    font-family: 'Poppins', sans-serif;
+}
+.f-label{
+    height: 400px;
+    
+}
+
+.f-label h1{
+    color: black;
+    font-weight: 600;
+    font-size: 65px;
+}
+
+.explore{
+    background-color: #F4FAFD;
+}
+
+.mt {
+    margin-top: 100px;
+}
+
+.hd{
+    height: 300px;
+    width: 80%;
+}
+.fl{
+    display: flex;
+    justify-content: center;
+}
+
+.ready{
+    width: 60%;
+}
+
+.que{
+
+    width: 60%;
+}
+
+.reg-btn{
+    color: blue;
+    background-color: white;
+    outline: 3px;
+    border-radius: 5px;
+    padding: 7px 20px 7px 20px;
+}
